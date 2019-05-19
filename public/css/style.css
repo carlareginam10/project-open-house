@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap');
+
+.nav-bar {
+  background-color: #C1C1C1;
+  width: 100%;
+  height: 60px;
+}
+
+.li-icons {
+  display: inline-block;
+}
+
+.ul-icons {
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  color: #464646;
+}
